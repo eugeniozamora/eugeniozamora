@@ -34,6 +34,8 @@ The three Zymsia studies are one product ecosystem seen from three angles: the A
 
 ## Get in touch
 
-Open to fractional and interim engineering management engagements and focused technical consulting. More at [eugeniozamora.com](https://eugeniozamora.com), or reach out via [LinkedIn](https://www.linkedin.com/in/eugeniozamora/) or [GitHub](https://github.com/eugeniozamora).
+Open to fractional and interim engineering management engagements and focused technical consulting.
+
+**[Book a meeting](https://calendar.app.google/5FeUeC4X1VBYt2bU6)** · [eugeniozamora.com](https://eugeniozamora.com) · [LinkedIn](https://www.linkedin.com/in/eugeniozamora/) · [GitHub](https://github.com/eugeniozamora)
 
 <sub>Each case study is a sanitized architectural write-up. Production source code, client data and credentials stay private under IP and confidentiality obligations.</sub>
