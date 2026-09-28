@@ -2,8 +2,11 @@
 
 I help founders and small teams ship production systems when they need senior engineering judgment but not a full-time hire. That covers multi-tenant SaaS platforms, AI-powered backends and cross-platform mobile apps, from the first architecture decision to the release running in production. It also covers the delivery process that gets them there.
 
+Every case study below comes from my own delivery lab, run with a **PM-led, AI-executed** method: I set the product direction, architecture and delivery governance, and Claude Code acts as the product, UX, engineering and infrastructure team. The method is open source as an installable Claude Code skill: **[pm-led-delivery](https://github.com/eugeniozamora/pm-led-delivery)**.
+
 ## What I do
 
+- **AI adoption in digital products**: PM-led, AI-executed delivery from idea to go-live, and helping teams adopt it without losing predictability or governance
 - **AI-powered backends**: multi-agent LLM systems (Anthropic Claude) with privacy built into the architecture, and cost and latency measured on every AI turn
 - **Multi-tenant SaaS**: tenant isolation enforced at the token level, B2B2C product design, one backend serving several products
 - **Mobile apps**: Flutter from concept to store release, local-first and encrypted when privacy is the product
@@ -12,12 +15,12 @@ I help founders and small teams ship production systems when they need senior en
 
 ## Case studies
 
-| Project | My role | What it shows |
-|---|---|---|
-| [**Zymsia AI Coach**](https://github.com/eugeniozamora/case-study-ai-nutrition-coach)<br/>Privacy-first multi-agent coaching platform | Solutions Architect & Lead Backend Engineer | Three specialist AI coaches behind an intent router. Health conversations live in a Redis session that deletes itself after 30 minutes and are never stored. One API is designed to serve B2C, B2B2C and B2B products, and clinic analytics never include message content. |
-| [**Zymsia Pro**](https://github.com/eugeniozamora/case-study-nutrition-saas)<br/>Multi-tenant SaaS for nutrition professionals | Architecture & full-stack delivery | Many practices on one codebase and one database, with tenant identity carried in Firebase custom claims instead of request parameters. Patients sign in with magic links instead of passwords. |
-| [**Zymsia Mobile**](https://github.com/eugeniozamora/case-study-mobile-migration)<br/>Migrating a live app's backend | Migration lead | A shipped Flutter app moved from session-based endpoints to a stateless API without a feature freeze. The new client layer shipped first, then ~400 lines of legacy code were removed once proven unused, with 75+ tests passing throughout. |
-| [**Byrnit**](https://github.com/eugeniozamora/case-study-vent-journal-app)<br/>Privacy-first "vent it, burn it" journal | Product Owner & Solution Architect | Solo-led from market validation and brand to v1.1 live on Google Play worldwide. There is no backend, so no user content leaves the device, and the database is encrypted with SQLCipher. 70+ automated tests gate each release. |
+| Project | What it shows |
+|---|---|
+| [**Zymsia AI Coach**](https://github.com/eugeniozamora/case-study-ai-nutrition-coach)<br/>Privacy-first multi-agent coaching platform | Three specialist AI coaches behind an intent router. Health conversations live in a Redis session that deletes itself after 30 minutes and are never stored. One API is designed to serve B2C, B2B2C and B2B products, and clinic analytics never include message content. |
+| [**Zymsia Pro**](https://github.com/eugeniozamora/case-study-nutrition-saas)<br/>Multi-tenant SaaS for nutrition professionals | Many practices on one codebase and one database, with tenant identity carried in Firebase custom claims instead of request parameters. Patients sign in with magic links instead of passwords. |
+| [**Zymsia Mobile**](https://github.com/eugeniozamora/case-study-mobile-migration)<br/>Migrating a shipped app's backend | A shipped Flutter app moved from session-based endpoints to a stateless API without a feature freeze. The new client layer shipped first, then ~400 lines of legacy code were removed once proven unused, with 75+ tests passing throughout. |
+| [**Byrnit**](https://github.com/eugeniozamora/case-study-vent-journal-app)<br/>Privacy-first "vent it, burn it" journal | Led from market validation and brand to v1.1 live on Google Play worldwide. There is no backend, so no user content leaves the device, and the database is encrypted with SQLCipher. 70+ automated tests gate each release. |
 
 The three Zymsia studies are one product ecosystem seen from three angles: the AI backend, the professional SaaS platform, and the mobile client that migrated onto the new backend. Byrnit is the counterpoint, a product taken from "is this worth building?" to a live store release.
 
@@ -38,4 +41,4 @@ Open to fractional and interim engineering management engagements and focused te
 
 **[Book a meeting](https://calendar.app.google/5FeUeC4X1VBYt2bU6)** · [eugeniozamora.com](https://eugeniozamora.com) · [LinkedIn](https://www.linkedin.com/in/eugeniozamora/) · [GitHub](https://github.com/eugeniozamora)
 
-<sub>Each case study is a sanitized architectural write-up. Production source code, client data and credentials stay private under IP and confidentiality obligations.</sub>
+<sub>Each case study is a sanitized architectural write-up. Production source code and credentials stay private under IP and confidentiality obligations.</sub>
