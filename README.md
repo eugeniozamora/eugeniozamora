@@ -20,13 +20,6 @@ The three Zymsia studies are one product ecosystem seen from three angles: the A
 - **CI as the gatekeeper.** Lint, type-check and tests block merges. Staging and production deploy automatically from separate branches.
 - **Privacy by architecture, not by policy.** If data should not be kept, the system is built so that it cannot be kept.
 
-## Background
-
-- **Career path:** BI and data-warehouse engineering and team lead (GFT, for Deutsche Bank) → Project Manager (SSI Schäfer) → PMO & Product Owner (GFT, for Banc Sabadell) → Head of Software Development (GoldenRace) → Programme Manager & Transformation Lead (Fortris)
-- **Education:** MSc in Computer Science & Engineering, Universitat Politècnica de Catalunya (UPC)
-- **Certifications:** SAFe® 6 Lean Portfolio Manager · SAFe® 6 Release Train Engineer · Professional Scrum Product Owner · Professional Scrum Master · PRINCE2® Practitioner
-- **Technical fluency:** a computer science degree, a data-engineering background, and current hands-on AI-driven delivery (Claude Code, Flutter, FastAPI, Next.js, Firebase)
-
 ## Get in touch
 
 Open to senior permanent roles and to interim or fractional engagements.
