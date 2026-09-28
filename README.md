@@ -2,11 +2,11 @@
 
 I help founders and small teams ship production systems when they need senior engineering judgment but not a full-time hire. That covers multi-tenant SaaS platforms, AI-powered backends and cross-platform mobile apps, from the first architecture decision to the release running in production. It also covers the delivery process that gets them there.
 
-Every case study below comes from my own delivery lab, run with a **PM-led, AI-executed** method: I set the product direction, architecture and delivery governance, and Claude Code acts as the product, UX, engineering and infrastructure team. The method is open source as an installable Claude Code skill: **[pm-led-delivery](https://github.com/eugeniozamora/pm-led-delivery)**.
+Every case study below comes from my own delivery lab, run with my **Idea to Launch** method: I set the product direction, architecture and delivery governance, and Claude Code acts as the product, UX, engineering and infrastructure team. The method is open source as an installable Claude Code skill: **[idea-to-launch](https://github.com/eugeniozamora/idea-to-launch)**.
 
 ## What I do
 
-- **AI adoption in digital products**: PM-led, AI-executed delivery from idea to go-live, and helping teams adopt it without losing predictability or governance
+- **AI adoption in digital products**: taking products from idea to go-live with AI as the execution team, and helping teams adopt it without losing predictability or governance
 - **AI-powered backends**: multi-agent LLM systems (Anthropic Claude) with privacy built into the architecture, and cost and latency measured on every AI turn
 - **Multi-tenant SaaS**: tenant isolation enforced at the token level, B2B2C product design, one backend serving several products
 - **Mobile apps**: Flutter from concept to store release, local-first and encrypted when privacy is the product
