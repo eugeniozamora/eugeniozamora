@@ -1,8 +1,6 @@
-# Eugenio Zamora — Program & Transformation Manager
+# Welcome to my AI lab! 
 
-20+ years leading IT programs and transformation in banking, fintech and logistics · SAFe® 6 RTE & LPM · AI adoption in digital products
-
-**Welcome to my AI lab!** This is where I stay hands-on with how AI is changing software delivery. I act as product manager and program lead, and Claude Code acts as the product, UX, engineering and infrastructure team. Every project below was built that way, following a method I've published as an open-source Claude Code skill: **[idea-to-launch](https://github.com/eugeniozamora/idea-to-launch)**.
+This is where I stay hands-on with **how AI is changing software delivery**. I act as Program & Transformation Manager, and Claude Code acts as the product, UX, engineering and infrastructure team. Every project below was built that way, following a method I've published as an open-source Claude Code skill: **[idea-to-launch](https://github.com/eugeniozamora/idea-to-launch)**.
 
 ## Projects
 
