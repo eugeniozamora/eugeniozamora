@@ -2,18 +2,9 @@
 
 20+ years leading IT programs and transformation in banking, fintech and logistics · SAFe® 6 RTE & LPM · AI adoption in digital products
 
-I unblock complex programs and build governance that teams actually use, so executives get visibility and teams get room to deliver. I'm open to senior permanent roles and to interim or fractional engagements.
+**Welcome to my AI lab!** This is where I stay hands-on with how AI is changing software delivery. I act as product manager and program lead, and Claude Code acts as the product, UX, engineering and infrastructure team. Every project below was built that way, following a method I've published as an open-source Claude Code skill: **[idea-to-launch](https://github.com/eugeniozamora/idea-to-launch)**.
 
-## What I bring
-
-- **Program leadership**: cross-team planning (SAFe PI Planning), capacity and dependency management, and hybrid PRINCE2 + Scrum delivery when the context needs it
-- **Governance & operating models**: PMO structures, target operating models (TOM) and KPI-driven governance that turn rituals into results
-- **Business–IT alignment**: translating business goals into executable roadmaps, and acting as a trusted advisor to senior executives in matrix organisations
-- **AI adoption in software delivery**: I've taken products from idea to launch with AI as the execution team, and I help teams adopt AI without losing predictability or control. See the lab below.
-
-## My AI delivery lab
-
-I run my own lab to stay hands-on with how AI is changing software delivery. I act as product manager and program lead, and Claude Code acts as the product, UX, engineering and infrastructure team. The method I use is open source as an installable Claude Code skill: **[idea-to-launch](https://github.com/eugeniozamora/idea-to-launch)**.
+## Projects
 
 | Project | What it shows |
 |---|---|
