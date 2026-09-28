@@ -1,19 +1,19 @@
-# Eugenio Zamora — Fractional Engineering Manager / Technical Consultant
+# Eugenio Zamora — Program & Transformation Manager
 
-I help founders and small teams ship production systems when they need senior engineering judgment but not a full-time hire. That covers multi-tenant SaaS platforms, AI-powered backends and cross-platform mobile apps, from the first architecture decision to the release running in production. It also covers the delivery process that gets them there.
+20+ years leading IT programs and transformation in banking, fintech and logistics · SAFe® 6 RTE & LPM · AI adoption in digital products
 
-Every case study below comes from my own delivery lab, run with my **Idea to Launch** method: I set the product direction, architecture and delivery governance, and Claude Code acts as the product, UX, engineering and infrastructure team. The method is open source as an installable Claude Code skill: **[idea-to-launch](https://github.com/eugeniozamora/idea-to-launch)**.
+I unblock complex programs and build governance that teams actually use, so executives get visibility and teams get room to deliver. I'm open to senior permanent roles and to interim or fractional engagements.
 
-## What I do
+## What I bring
 
-- **AI adoption in digital products**: taking products from idea to go-live with AI as the execution team, and helping teams adopt it without losing predictability or governance
-- **AI-powered backends**: multi-agent LLM systems (Anthropic Claude) with privacy built into the architecture, and cost and latency measured on every AI turn
-- **Multi-tenant SaaS**: tenant isolation enforced at the token level, B2B2C product design, one backend serving several products
-- **Mobile apps**: Flutter from concept to store release, local-first and encrypted when privacy is the product
-- **Legacy migrations**: replacing a live system's foundation incrementally, with tests and a written paper trail instead of a big-bang rewrite
-- **Delivery leadership**: epics → user stories with acceptance criteria → squash-merged PRs, CI gates, and Architecture Decision Records so the reasoning outlives the people who made it
+- **Program leadership**: cross-team planning (SAFe PI Planning), capacity and dependency management, and hybrid PRINCE2 + Scrum delivery when the context needs it
+- **Governance & operating models**: PMO structures, target operating models (TOM) and KPI-driven governance that turn rituals into results
+- **Business–IT alignment**: translating business goals into executable roadmaps, and acting as a trusted advisor to senior executives in matrix organisations
+- **AI adoption in software delivery**: I've taken products from idea to launch with AI as the execution team, and I help teams adopt AI without losing predictability or control. See the lab below.
 
-## Case studies
+## My AI delivery lab
+
+I run my own lab to stay hands-on with how AI is changing software delivery. I act as product manager and program lead, and Claude Code acts as the product, UX, engineering and infrastructure team. The method I use is open source as an installable Claude Code skill: **[idea-to-launch](https://github.com/eugeniozamora/idea-to-launch)**.
 
 | Project | What it shows |
 |---|---|
@@ -31,13 +31,16 @@ The three Zymsia studies are one product ecosystem seen from three angles: the A
 - **CI as the gatekeeper.** Lint, type-check and tests block merges. Staging and production deploy automatically from separate branches.
 - **Privacy by architecture, not by policy.** If data should not be kept, the system is built so that it cannot be kept.
 
-## Stack
+## Background
 
-`TypeScript` `Next.js` `Python` `FastAPI` `Flutter/Dart` `Riverpod` `Firebase` `Redis` `PostgreSQL` `TimescaleDB` `SQLCipher` `Docker` `GitHub Actions` `Codemagic` `Vercel` `Sentry` `Anthropic Claude API`
+- **Career path:** BI and data-warehouse engineering and team lead (GFT, for Deutsche Bank) → Project Manager (SSI Schäfer) → PMO & Product Owner (GFT, for Banc Sabadell) → Head of Software Development (GoldenRace) → Programme Manager & Transformation Lead (Fortris)
+- **Education:** MSc in Computer Science & Engineering, Universitat Politècnica de Catalunya (UPC)
+- **Certifications:** SAFe® 6 Lean Portfolio Manager · SAFe® 6 Release Train Engineer · Professional Scrum Product Owner · Professional Scrum Master · PRINCE2® Practitioner
+- **Technical fluency:** a computer science degree, a data-engineering background, and current hands-on AI-driven delivery (Claude Code, Flutter, FastAPI, Next.js, Firebase)
 
 ## Get in touch
 
-Open to fractional and interim engineering management engagements and focused technical consulting.
+Open to senior permanent roles and to interim or fractional engagements.
 
 **[Book a meeting](https://calendar.app.google/5FeUeC4X1VBYt2bU6)** · [eugeniozamora.com](https://eugeniozamora.com) · [LinkedIn](https://www.linkedin.com/in/eugeniozamora/) · [GitHub](https://github.com/eugeniozamora)
 
